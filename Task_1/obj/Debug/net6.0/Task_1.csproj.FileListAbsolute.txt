@@ -1,0 +1,15 @@
+D:\Git\Homework8.0\Task_1\bin\Debug\net6.0\Task_1.exe
+D:\Git\Homework8.0\Task_1\bin\Debug\net6.0\Task_1.deps.json
+D:\Git\Homework8.0\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+D:\Git\Homework8.0\Task_1\bin\Debug\net6.0\Task_1.dll
+D:\Git\Homework8.0\Task_1\bin\Debug\net6.0\Task_1.pdb
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.dll
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.pdb
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+D:\Git\Homework8.0\Task_1\obj\Debug\net6.0\ref\Task_1.dll
